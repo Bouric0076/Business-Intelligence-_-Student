@@ -1,0 +1,175 @@
+# Core data analysis and visualization
+pandas==2.3.3
+numpy==2.3.5
+matplotlib==3.10.7
+seaborn==0.13.2
+plotly==6.5.0
+altair==5.5.0
+pydeck==0.9.1
+
+# Machine learning
+scikit-learn==1.7.2
+scipy==1.16.3
+
+# Streamlit framework
+streamlit==1.51.0
+
+# Data processing
+pyarrow==21.0.0
+pillow==12.0.0
+
+# Utilities
+requests==2.32.5
+python-dateutil==2.9.0.post0
+pytz==2025.2
+PyYAML==6.0.3
+
+# JSON and data validation
+jsonschema==4.25.1
+fastjsonschema==2.21.2
+
+# Git integration
+GitPython==3.1.45
+
+# Web and documentation
+Jinja2==3.1.6
+MarkupSafe==3.0.3
+
+# Color and styling
+colorama==0.4.6
+
+# Core dependencies
+click==8.3.1
+packaging==25.0
+setuptools==80.9.0
+
+# Scientific computing support
+kiwisolver==1.4.9
+contourpy==1.3.3
+cycler==0.12.1
+fonttools==4.60.1
+pyparsing==3.2.5
+
+# Async support
+nest-asyncio==1.6.0
+
+# Type support
+typing_extensions==4.15.0
+
+# Timezone data
+tzdata==2025.2
+
+# Validation
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+
+# URI handling
+uri-template==1.3.0
+
+# Web colors
+webcolors==25.10.0
+
+# TOML configuration
+toml==0.10.2
+
+# Cache tools
+cachetools==6.2.2
+
+# Platform directories
+platformdirs==4.5.0
+
+# Git database
+gitdb==4.0.12
+smmap==5.0.2
+
+# Six compatibility
+six==1.17.0
+
+# Tenacity for retry logic
+tenacity==9.1.2
+
+# Thread pool control
+threadpoolctl==3.6.0
+
+# Joblib for parallel processing
+joblib==1.5.2
+
+# Markdown parsing
+mistune==3.1.4
+
+# Lark parsing
+lark==1.3.1
+
+# Pandoc filters
+pandocfilters==1.5.1
+
+# Pure evaluation
+pure_eval==0.2.3
+
+# Prometheus client
+prometheus_client==0.23.1
+
+# Protobuf
+protobuf==6.33.1
+
+# PSUtil
+psutil==7.1.3
+
+# PyZMQ
+pyzmq==27.1.0
+
+# Referencing
+referencing==0.37.0
+rpds-py==0.29.0
+
+# Send2Trash
+Send2Trash==1.8.3
+
+# Tornado
+tornado==6.5.2
+
+# Traitlets
+traitlets==5.14.3
+
+# WCWidth
+wcwidth==0.2.14
+
+# Web encodings
+webencodings==0.5.1
+
+# WebSocket client
+websocket-client==1.9.0
+
+# Jupyter widgets (optional)
+jupyterlab_widgets==3.0.16
+widgetsnbextension==4.0.15
+
+# JSON logger
+python-json-logger==4.0.0
+
+# Watchdog for file monitoring
+watchdog==6.0.0
+
+# Certifi for SSL certificates
+certifi==2025.11.12
+
+# Character set normalization
+charset-normalizer==3.4.4
+
+# IDNA support
+idna==3.11
+
+# URL handling
+urllib3==2.5.0
+
+# Soup sieve for HTML parsing
+soupsieve==2.8
+
+# Blinker for signals
+blinker==1.9.0
+
+# Attrs for data classes
+attrs==25.4.0
+
+# JSON schema specifications
+jsonschema-specifications==2025.9.1
