@@ -239,97 +239,10 @@ Business-Intelligence-_-Student/
 #####  Interactive Contributor Grid
 ![GitHub Contributors](https://contrib.rocks/image?repo=bouric0076/Business-Intelligence-_-Student&max=100&columns=12)
 
-#####  Contributor Activity Rankings
-![GitHub Contributors Rank](https://github-contributor-stats.vercel.app/api?username=bouric0076&repo=Business-Intelligence-_-Student&limit=10&theme=default)
-
-#####  Top Contributors by Commits
-![GitHub Top Contributors](https://github-readme-stats.vercel.app/api/pin/?username=bouric0076&repo=Business-Intelligence-_-Student&show_owner=true)
 
 #####  Live Contributor Engagement
 [![GitHub Contributors](https://img.shields.io/github/contributors/bouric0076/Business-Intelligence-_-Student?style=for-the-badge&logo=github)](https://github.com/bouric0076/Business-Intelligence-_-Student/graphs/contributors)
 [![GitHub Contributors Activity](https://img.shields.io/github/commit-activity/m/bouric0076/Business-Intelligence-_-Student?style=for-the-badge&logo=github)](https://github.com/bouric0076/Business-Intelligence-_-Student/graphs/commit-activity)
-
-#####  Detailed Contributor Profiles
-*Explore individual contributor profiles and activity:*
-- **[All Contributors](https://github.com/bouric0076/Business-Intelligence-_-Student/graphs/contributors)** - View complete contributor list
-- **[Contribution Activity](https://github.com/bouric0076/Business-Intelligence-_-Student/pulse)** - See recent contribution patterns
-- **[Code Frequency](https://github.com/bouric0076/Business-Intelligence-_-Student/graphs/code-frequency)** - Analyze code addition/deletion trends
-
-
-####  Code Frequency & Commit History
-
-##### Commit Activity Trends
-![GitHub Code Frequency](https://img.shields.io/github/commit-activity/y/bouric0076/Business-Intelligence-_-Student?logo=github&style=flat-square&label=Yearly%20Commits)
-![GitHub Weekly Commits](https://img.shields.io/github/commit-activity/w/bouric0076/Business-Intelligence-_-Student?logo=github&style=flat-square&label=Weekly%20Commits)
-![GitHub Monthly Commits](https://img.shields.io/github/commit-activity/m/bouric0076/Business-Intelligence-_-Student?logo=github&style=flat-square&label=Monthly%20Commits)
-
-#####  Detailed Code Frequency Analysis
-![GitHub Code Frequency Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bouric0076&theme=default)
-![GitHub Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bouric0076&theme=default)
-
-#####  Repository Development Velocity
-![GitHub Pulse](https://img.shields.io/badge/GitHub-Pulse-ff69b4?logo=github&style=flat-square)
-[![GitHub Pulse Page](https://img.shields.io/badge/View-Pulse%20Activity-blue?logo=github&style=for-the-badge)](https://github.com/bouric0076/Business-Intelligence-_-Student/pulse)
-
-#####  Commit History Visualization
-![GitHub Commit Timeline](https://github-readme-activity-graph.vercel.app/graph?username=bouric0076&theme=minimal&hide_border=false&area=true&area_color=40c463)
-
-#####  Development Timeline
-*Track repository development over time:*
-- **[Commit Activity](https://github.com/bouric0076/Business-Intelligence-_-Student/graphs/commit-activity)** - Weekly commit patterns
-- **[Code Frequency](https://github.com/bouric0076/Business-Intelligence-_-Student/graphs/code-frequency)** - Lines of code added/removed
-- **[Pulse](https://github.com/bouric0076/Business-Intelligence-_-Student/pulse)** - Recent activity overview
-- **[Contributors](https://github.com/bouric0076/Business-Intelligence-_-Student/graphs/contributors)** - Contributor statistics over time
-
-
-####  Repository Health Indicators
-[![GitHub Watchers](https://img.shields.io/github/watchers/bouric0076/Business-Intelligence-_-Student?style=flat-square&logo=github)](https://github.com/btogetherouric0076/Business-Intelligence-_-Student/watchers)
-[![GitHub Network](https://img.shields.io/github/forks/bouric0076/Business-Intelligence-_-Student?style=flat-square&logo=github&label=Network)](https://github.com/bouric0076/Business-Intelligence-_-Student/network)
-[![GitHub Downloads](https://img.shields.io/github/downloads/bouric0076/Business-Intelligence-_-Student/total?style=flat-square&logo=github)](https://github.com/bouric0076/Business-Intelligence-_-Student/releases)
-
-####  Advanced GitHub Metrics
-![GitHub Stars Chart](https://img.shields.io/github/stars/bouric0076/Business-Intelligence-_-Student?logo=github&style=flat-square&label=Total%20Stars)
-![GitHub Forks Chart](https://img.shields.io/github/forks/bouric0076/Business-Intelligence-_-Student?logo=github&style=flat-square&label=Total%20Forks)
-
-####  Live Project Management
-[![GitHub Projects](https://img.shields.io/badge/GitHub-Projects%20Board-blue?logo=github&style=flat-square)](https://github.com/bouric0076/Business-Intelligence-_-Student/projects)
-[![GitHub Milestones](https://img.shields.io/badge/GitHub-Milestones-green?logo=github&style=flat-square)](https://github.com/bouric0076/Business-Intelligence-_-Student/milestones)
-[![GitHub Discussions](https://img.shields.io/badge/GitHub-Discussions-orange?logo=github&style=flat-square)](https://github.com/bouric0076/Business-Intelligence-_-Student/discussions)
-
-####  Repository Performance Analytics
-![GitHub Views Counter](https://views.whatilearened.today/views/github/bouric0076/Business-Intelligence-_-Student.svg)
-![GitHub Profile Views](https://komarev.com/ghpvc/?username=bouric0076&style=flat-square&color=blue)
-
-####  Advanced Repository Insights
-<details>
-<summary>🔍 Click to expand advanced GitHub analytics</summary>
-
-#####  Repository Growth Metrics
-![GitHub Created Date](https://img.shields.io/github/created-at/bouric0076/Business-Intelligence-_-Student?logo=github&style=flat-square)
-![GitHub Updated Date](https://img.shields.io/github/last-commit/bouric0076/Business-Intelligence-_-Student?logo=github&style=flat-square&label=Last%20Updated)
-
-#####  Code Quality Indicators
-![GitHub Code Size](https://img.shields.io/github/languages/code-size/bouric0076/Business-Intelligence-_-Student?logo=github&style=flat-square)
-![GitHub File Count](https://img.shields.io/github/directory-file-count/bouric0076/Business-Intelligence-_-Student?logo=github&style=flat-square)
-
-#####  Activity Trends
-![GitHub Pulse](https://img.shields.io/badge/GitHub-Pulse-ff69b4?logo=github&style=flat-square)
-![GitHub Graphs](https://img.shields.io/badge/GitHub-Graphs-blue?logo=github&style=flat-square)
-
-
-
-</details>
-
-####  Contribution Graph & Streaks
-
-#####  Individual Contributor Activity
-![GitHub Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=bouric0076&theme=default&hide_border=false)
-
-#####  Repository Contribution Patterns
-![GitHub Commit Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bouric0076&theme=minimal&hide_border=false&area=true&area_color=0366d6)
-
-#####  Contribution Streak Metrics
-![GitHub Streak Stats](https://streak-stats.demolab.com/?user=bouric0076&theme=default&hide_border=false&border_radius=5&date_format=M%20j%2C%20Y)
 
 
 ##  Deployment & Access
@@ -361,9 +274,9 @@ streamlit run interactive_dashboard.py
 
 
 ### Repository Status
-- ✅ **Live Dashboard**: Operational and accessible
-- ✅ **Cross-platform**: Linux-compatible deployment
-- ✅ **Auto-deployment**: GitHub integration enabled
+-  **Live Dashboard**: Operational and accessible
+-  **Cross-platform**: Linux-compatible deployment
+-  **Auto-deployment**: GitHub integration enabled
 
 ---
 
