@@ -1,0 +1,81 @@
+EPIC Insight Story – Business Intelligence & Decision Support
+
+Course: BIT 2119
+Dataset: Default of Credit Card Clients – UCI Machine Learning Repository
+Objective: Apply Python-driven analytics to uncover enterprise decision insights using the EPIC storytelling framework.
+
+E – ENGAGE: Understanding the Business Challenge
+
+Financial institutions continually navigate the tension between expanding their customer base and maintaining a healthy credit portfolio. High default rates erode profitability, while poorly targeted lending strategies lead to inefficient resource allocation and increased exposure to risk.
+
+To address these challenges, this analysis examines the Credit Card Clients dataset, exploring how customer demographics, financial behavior, and payment patterns influence default outcomes. The overarching goal is to empower banks with deeper, data-driven insights to strengthen credit decisions, enhance segmentation, and reduce financial losses.
+
+P – PRESENT: The Data Landscape & Analytical Strategy
+
+The dataset captures a comprehensive profile of credit card clients, including:
+
+Demographic factors: age, education, marital status
+
+Financial attributes: credit limits, bill amounts
+
+Behavioral indicators: past payment records, repayment history
+
+To extract meaningful insights, the following analytical techniques were implemented in Python:
+
+Descriptive statistics to understand distributions
+
+Correlation analysis to identify key relationships
+
+Trend exploration and pattern detection
+
+Visual analysis using Matplotlib and Seaborn to highlight risk signals
+
+The objective was to isolate variables most strongly associated with client default behavior and transform them into actionable decision support insights.
+
+I – INTERPRET: What the Analysis Reveals
+1. Age as a Risk Indicator
+
+Younger clients—particularly those under 30—exhibit significantly higher default rates. Their repayment behavior tends to be less stable, suggesting a demographic segment requiring specialized risk controls.
+
+2. Credit Utilization as a Predictive Signal
+
+Customers consistently using more than 80% of their credit limit show a strong tendency toward default. High utilization emerges as one of the clearest behavioral flags for financial stress.
+
+3. Payment History Determines Future Risk
+
+Repeated late payments over the previous six months form a powerful predictive indicator. Clients with sustained delays demonstrate sharply elevated default likelihood and reduced financial discipline.
+
+4. Bill Amount vs. Payment Capability
+
+A high bill-to-payment ratio correlates strongly with repayment struggles. Clients whose monthly billing exceeds their typical payment behavior fall into a high-risk category, indicating overextension.
+
+C – CONCLUDE: Decision-Centered Recommendations
+1. Strengthen Risk Screening
+
+Enhance assessment for younger applicants and individuals with high credit utilization. Consider reduced initial limits or additional verification for early identification of risk.
+
+2. Deploy Utilization Monitoring
+
+Implement automated systems to flag customers exceeding 80% utilization. Offer proactive interventions such as reminders, financial education, or flexible repayment guidance.
+
+3. Integrate Trend-Based Scoring
+
+Embed six-month payment behavior into credit scoring models to enable earlier intervention and more accurate prediction of borrower performance.
+
+4. Tailor Credit Limit Strategies
+
+Use repayment consistency to segment clients and adjust credit limits accordingly—balancing profitability with responsible risk exposure.
+
+EPIC Story Summary
+
+Through structured analysis guided by the EPIC framework, this study identifies age, credit utilization, and payment history as dominant drivers of default among credit card clients. These insights empower banks to:
+
+Improve credit risk assessment
+
+Focus customer segmentation
+
+Optimize credit limit policies
+
+Strengthen overall portfolio performance
+
+By transforming raw data into actionable intelligence, this EPIC-based analysis provides a clear pathway for smarter, more strategic enterprise decision-making.
